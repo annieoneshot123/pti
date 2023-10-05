@@ -1,0 +1,11 @@
+logs
+.idea
+.DS_Store
+.vs/VSIT_PRINTER_SERVICE/v15/Server/
+VSIT_PRINTER_SERVICE/bin/
+VSIT_PRINTER_SERVICE/Logs/
+VSIT_PRINTER_SERVICE/obj/
+VSIT_PRINTER_SERVICE/.vscode
+HttpHelper/obj/
+HttpHelper/bin/
+.vs/

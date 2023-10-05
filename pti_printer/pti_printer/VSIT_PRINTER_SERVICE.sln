@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VsitPrinter", "VSIT_PRINTER_SERVICE\VsitPrinter.csproj", "{664493CD-CD13-45A5-9F09-E45342F97FCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestApiHelper", "HttpHelper\RestApiHelper.csproj", "{C601E26F-1D0E-48B1-8E76-76B600CDFCAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{664493CD-CD13-45A5-9F09-E45342F97FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664493CD-CD13-45A5-9F09-E45342F97FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664493CD-CD13-45A5-9F09-E45342F97FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664493CD-CD13-45A5-9F09-E45342F97FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C601E26F-1D0E-48B1-8E76-76B600CDFCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C601E26F-1D0E-48B1-8E76-76B600CDFCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C601E26F-1D0E-48B1-8E76-76B600CDFCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C601E26F-1D0E-48B1-8E76-76B600CDFCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D90D1C4-1633-4E6C-84D4-D706CE15321E}
+	EndGlobalSection
+EndGlobal

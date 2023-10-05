@@ -1,0 +1,7 @@
+dotnet ef migrations add InitialCreate
+dotnet ef migrations script | out-file ./Scripts/.sql
+dotnet ef database update
+
+dotnet ef migrations script premigration | out-file ./ScriptDB/migrationName.sql
+
+dotnet ef migrations script -i | out-file ./ScriptDB/script.sql
